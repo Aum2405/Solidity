@@ -1,6 +1,7 @@
 I have developed a token called Oreo using Solidity. The program enables tracking of the total coin supply, as well as the minting and burning of tokens.
 
 Description
+
 The Oreo token, also known as ORO, is built using Solidity for the Ethereum blockchain. This program allows for the creation, burning, and tracking of the token supply.
 
 Getting Started
