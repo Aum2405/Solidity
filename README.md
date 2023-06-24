@@ -18,7 +18,7 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 Now at the left bottom side of the page, there is a section called Deployed Contracts. below that, as you can see contract is deployed and by clicking into MYTOKEN there are functions like burnCoin, mintCoin which will burn and mint coin respectively after that balances button will give a balance of the address that you put into the text field on the right side of the button. further, there are 3 more buttons that will give the token name, its abbreviation and total supply.
 
-## Author
+## Learner
 
 
 - Aum.
