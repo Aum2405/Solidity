@@ -1,4 +1,4 @@
-# Create a Token
+# Token Creation
 
 I have created a token named Oreo with Solidity. the program can keep track of the total supply of tokens, mint, and burn the token. 
 
